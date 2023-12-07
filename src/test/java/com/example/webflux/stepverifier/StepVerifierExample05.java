@@ -1,6 +1,6 @@
 package com.example.webflux.stepverifier;
 
-import com.example.webflux.hello.GeneralExample;
+import com.example.webflux.sequences.GeneralExample;
 import org.junit.jupiter.api.*;
 import reactor.core.publisher.Flux;
 import reactor.test.StepVerifier;

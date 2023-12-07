@@ -1,4 +1,4 @@
-package com.example.webflux.hello;
+package com.example.webflux.sequences;
 
 import reactor.core.publisher.Flux;
 
